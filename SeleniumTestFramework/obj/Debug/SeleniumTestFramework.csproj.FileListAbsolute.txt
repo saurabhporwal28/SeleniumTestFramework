@@ -28,7 +28,6 @@ C:\git\SeleniumTestFramework\SeleniumTestFramework\bin\Debug\WebDriver.dll
 C:\git\SeleniumTestFramework\SeleniumTestFramework\bin\Debug\nunit.framework.pdb
 C:\git\SeleniumTestFramework\SeleniumTestFramework\bin\Debug\nunit.framework.xml
 C:\git\SeleniumTestFramework\SeleniumTestFramework\bin\Debug\WebDriver.xml
-C:\git\SeleniumTestFramework\SeleniumTestFramework\obj\Debug\SeleniumTestFramework.csprojResolveAssemblyReference.cache
 C:\git\SeleniumTestFramework\SeleniumTestFramework\obj\Debug\SeleniumTestFramework.csproj.CoreCompileInputs.cache
 C:\git\SeleniumTestFramework\SeleniumTestFramework\obj\Debug\SeleniumTestFramework.csproj.CopyComplete
 C:\git\SeleniumTestFramework\SeleniumTestFramework\obj\Debug\SeleniumTestFramework.exe

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,7 +19,11 @@ namespace SeleniumTestFramework
         [SetUp]
         public void StartBrowser()
         {
-            driver = new ChromeDriver("..\\Automation\\chromedriver");
+
+            var projectPath = AppDomain.CurrentDomain.BaseDirectory;
+            var chromeDriverPath = Path.GetDirectoryName(projectPath + "..//..//Automation//chromedriver//");
+
+            driver = new ChromeDriver(chromeDriverPath);
         }
 
         [Test]
