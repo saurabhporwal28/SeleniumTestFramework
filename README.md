@@ -1,1 +1,2 @@
 # SeleniumTestFramework
+# permissions test #
